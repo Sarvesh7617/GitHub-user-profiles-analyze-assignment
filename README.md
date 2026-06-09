@@ -79,7 +79,7 @@ CREATE TABLE profiles (
 
 ## 🔗 Live Website
 
-👉 [Click here to visit backend](https://github-user-profiles-analyze-assignment.onrender.com)
+👉 [Live API URL](https://github-user-profiles-analyze-assignment.onrender.com)
 
 ---
 
